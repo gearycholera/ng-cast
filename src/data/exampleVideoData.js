@@ -8,7 +8,7 @@ window.exampleVideoData = [{
     kind: "youtube#video",
     videoId: "OPxeCiy0RdY"
   },
-  snippet: {
+  snippet: {  
     publishedAt: "2016-02-09T00:05:00.000Z",
     channelId: "UCwRXb5dUK4cvsHbx-rGzSgw",
     title: "AngularJS Tutorial",
